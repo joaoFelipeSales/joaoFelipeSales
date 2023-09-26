@@ -15,8 +15,8 @@ Olá! Sou João Felipe Sales, um entusiasta da tecnologia com habilidades sólid
 ⚡ Curiosidade divertida: Sou um entusiasta de jogos e adoro passar meu tempo livre jogando e explorando mundos virtuais. Além disso, tenho uma paixão pela culinária e adoro experimentar novas receitas e criar pratos deliciosos na cozinha.
 
 ##
-[![JoaoFelipeSales GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoFelipeSales)](https://github.com/joaoFelipeSales/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoFelipeSales&show_icons=true&theme=dark&count_private=true)](https://github.com/joaoFelipeSales/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoFelipeSales&show_icons=true&theme=dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoFelipeSales&show_icons=true&theme=dark)](https://github.com/joaoFelipeSales/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -1,4 +1,4 @@
-Olá! Sou João Felipe Sales, um entusiasta da tecnologia com habilidades sólidas em Python e um profundo conhecimento em serviços da AWS (Amazon Web Services). Estou empolgado em aplicar minhas habilidades analíticas e explorar as poderosas ferramentas e recursos em nuvem oferecidos pela AWS. Minha jornada com Python e AWS me capacitou a habilmente coletar, processar e analisar dados, além de construir soluções escaláveis e automatizadas para extrair insights estratégicos.
+Olá! Sou João Felipe Sales, um entusiasta da tecnologia com habilidades em Python e um conhecimento em serviços da AWS (Amazon Web Services). Estou empolgado em aplicar minhas habilidades analíticas e explorar as poderosas ferramentas e recursos em nuvem oferecidos pela AWS. Minha jornada com Python e AWS me capacitou a habilmente coletar, processar e analisar dados, além de construir soluções escaláveis e automatizadas para extrair insights estratégicos.
 
 🔭 Atualmente estou em busca de oportunidades de emprego na área de tecnologia, especialmente em cargos de nível júnior ou estágio.
 
@@ -10,7 +10,7 @@ Olá! Sou João Felipe Sales, um entusiasta da tecnologia com habilidades sólid
 
 💬 Pergunte-me sobre minhas habilidades e experiências anteriores, bem como minhas metas profissionais.
 
-📫 Como me alcançar: Você pode entrar em contato comigo através do meu e-mail em (https://joaofelipesales.github.io/)https://joaofelipesales.github.io/].
+📫 Como me alcançar: Você pode entrar em contato comigo através do meu e-mail em [https://joaofelipesales.github.io/].
 
 ⚡ Curiosidade divertida: Sou um entusiasta de jogos e adoro passar meu tempo livre jogando e explorando mundos virtuais. Além disso, tenho uma paixão pela culinária e adoro experimentar novas receitas e criar pratos deliciosos na cozinha.
 
